@@ -1,0 +1,1 @@
+jdbc:mysql://localhost/aclog?createDatabaseIfNotExist=true&serverTimezone=UTC
