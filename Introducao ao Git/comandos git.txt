@@ -1,0 +1,18 @@
+git config --global --unset user.name
+
+git config --global user.name "amauri-castro"
+
+ver status > git status
+adicionar arquivo para stage > git add */./-a(nome do arquivo ou todos)
+
+commitar > git commit -m "mensagem"
+
+empurrar para repositorio remoto:
+git push origin master (origin= nome dado ao repositorio remoto / master= nome da branch)
+
+puxar do repositorio remoto:
+git pull origin master
+
+ls - a (mostra repositorios ocultos)
+
+git remote -v (mostra os repositorios remotos no qual o repositorio local está apontado)
