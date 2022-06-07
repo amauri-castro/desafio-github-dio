@@ -1,6 +1,13 @@
+-----------------------------------------------------------------------------------------------------
+Lista de comandos úteis para o Git
+-----------------------------------------------------------------------------------------------------
+
+configuração:
 git config --global --unset user.name
 
 git config --global user.name "amauri-castro"
+
+-------------------------------------------------------------------------------------------
 
 ver status > git status
 adicionar arquivo para stage > git add */./-a(nome do arquivo ou todos)
@@ -12,6 +19,9 @@ git push origin master (origin= nome dado ao repositorio remoto / master= nome d
 
 puxar do repositorio remoto:
 git pull origin master
+
+------------------------------------------------------------------------------------------
+diversos:
 
 ls - a (mostra repositorios ocultos)
 
